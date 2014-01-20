@@ -21,4 +21,4 @@ Notebook in tree nodes map（一个树状节点笔记本）
 -节点导出
 
 
-![image](https://github.com/moketao/treemap/pic.png)
+![image](https://github.com/moketao/treemap/raw/master/pic.png)
